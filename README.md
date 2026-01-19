@@ -14,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+<div align="center"><h3>
+    👋 Hi, I'm Sudarshan Das!,</h3>
+    <picture style="margin:0;">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+      <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+    </picture>
+</div>
+
+
+- 🔭 I’m currently working on "GenConnect"
+
+- 🌱 I’m currently learning **NodeJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sudarshan-cuk](https://github.com/Sudarshan-cuk)
+
+
+
+- 📫 How to reach me **sudarshandas81@gmail.com**
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=750&height=230&lines=while(true);..+brain.init();..+if+(world.contains(open_source));....++s+%3D+open_source.login(Sudarshan-cuk);....+s.build(projects);....+s.solve(problems);....+s.improve(skills);....+s.share(knowledge);"/>
+</p>
+
+<hr/>
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+<!--
+![stats](https://github-readme-stats.vercel.app/api?username=Sudarshan-cuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-cuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan-cuk&theme=dark&hide_border=false)
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-cuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" alt="stats graph" width="46%" />
+  <img src="https://streak-stats.demolab.com?user=Sudarshan-cuk&locale=en&mode=daily&theme=gruvbox&hide_border=false alt="streak graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudarshan-cuk&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" alt="languages graph" height="220" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudarshan-cuk&layout=compact&langs_count=10&theme=gruvbox" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarshan-cuk&theme=gruvbox&hide_border=false&layout=compact" width="94%"/>
+</div>
+
+2. ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=DARSHAN4U&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudarshan-cuk)](https://github.com/Sudarshan-cuk/github-readme-stats)
