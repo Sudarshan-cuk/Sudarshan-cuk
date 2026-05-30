@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=DARSHAN4U&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudarshan-cuk)](https://github.com/Sudarshan-cuk/github-readme-stats)
+
